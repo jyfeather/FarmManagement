@@ -1,0 +1,10 @@
+# GAMS temporary files
+*.lst
+*.~gm
+
+# Markdown temporary html files
+*.html
+
+# MS office files
+*.docx
+*.xlsx
